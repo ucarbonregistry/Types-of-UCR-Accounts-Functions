@@ -2,12 +2,12 @@
 Key difference between a UCR Buyer and Seller A/C
 __________________
 Types of UCR Accounts & Functions
+______________
 UCR Seller Account: A free seller account is the main account to mint and generate carbon credits from project activities. The seller account is designed to be operated by project owners and their aggregators. This type of account has many additional features, as opposed to other UCR accounts within the ecosystem, with features related to uploading project information, audit reports, documentation etc, to enable project developers/owners and their authorized consultants, to register and generate carbon credits under the UCR CoU program.
 ______________________
 The UCR Seller Account is also capable of listing credits on any 3rd party spot exchange platform (e.g CTX) or transferring credits to buyers who have contacted the seller directly to enable a trade without going onto a third-party exchanges (OTC trading) or directly retiring credits on behalf of customers/clients. In adherence to the global voluntary carbon market principles, any trading from the UCR seller account means that the parties involved are primary traders of credits. The flow of carbon credits is always outward post issuance of credits by UCR into the seller account.
 
 ____________________
-UCR Seller Account
 UCR Buyer Account: A free buyer account is the main account to complete inter registry transfers, setup holding accounts for blockchain plays and retire carbon credits. The buyer account is designed to be operated by secondary market traders and buyers. This type of account has limited features, as opposed to UCR seller accounts within the ecosystem, with features related to secondary trading of carbon credits.
 
 Having credits in the buyer account means that the account holder has either engaged in OTC trades with primary sellers or has purchased credits from a linked UCR exchange.
@@ -15,7 +15,7 @@ Having credits in the buyer account means that the account holder has either eng
 UCR buyer account cannot resend credits back to any seller accounts, to do so would require the seller to open a buyer account. Account opening is free!
 
 _________________
-UCR Buyer account
+
 The UCR Buyer Account is also capable of listing/relisting credits on any 3rd party spot exchange platform (e.g CTX) or transferring credits to other buyer accounts or directly retiring credits or mapped for the burn and tokenize API. In adherence to the global voluntary carbon market principles, any trading from the UCR buyer account means that the parties involved are secondary traders of credits. The flow of carbon credits is always within the buyer and trader ecosystem on the UCR platform.
 ___________________
 If unfamiliar with blockchain technology, kindly do no engage in the Burn and Token function on the UCR dashboard.
